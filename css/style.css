@@ -14,3 +14,10 @@ h1,
   display: flex;
   justify-content: center;
 }
+
+#results {
+  margin-top: 3%;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+}
