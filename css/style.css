@@ -7,3 +7,10 @@
 body {
   background-color: aquamarine;
 }
+
+h1,
+.container {
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+}
